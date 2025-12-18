@@ -1,8 +1,13 @@
 :root {
-    --main-font: 'Inter';
-    --accent-font: 'PressStart2P-Regular';
-    --bg-color: #fff;
-    --color: #000;
-    --stroke-color: #fff;
-    --heart-color: red;
+  /* базовые шрифты */
+  --main-font: Inter;
+  --accent-font: PressStart2P-Regular;
+
+  /* цвета фона и текста */
+  --bg-color: #ffffff;
+  --color: #000000;
+
+  /* вспомогательные цвета */
+  --stroke-color: #ffffff;
+  --heart-color: red;
 }
